@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello! I'm Punyashree
+
+3rd year CS major, with minors in Bioscience.
+
+I'm currently working as a Research Intern at CINT Lab, IISc. My work is in the field of remote sensing for vegetation analysis (precision agriculture using satellite imagery).
+
+I am also independently working on computational neuroscience projects on the side.
 
 <!--
 **punyashhree/punyashhree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
